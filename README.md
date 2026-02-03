@@ -8,7 +8,7 @@ This repository collects links to mentorships projects under the GC.OS umbrella 
 
 Important: application guidelines may vary by sub-organizations or funding programme. Please refer to official guidelines of funding programme and sub-organisations.
 
-# Sub Organizations
+# Sub Organizations and Ideas List
 
 Please refer the following for a list of affiliated projects: https://gcos.ai/projects
 
